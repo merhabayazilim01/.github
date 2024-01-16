@@ -1,3 +1,5 @@
+https://yt3.googleusercontent.com/C7J76rWTEhxwVCIHWs7tkRvEg5pwXn0cdRWvVAHIXBWC4hCl4gmkKtPhA3AyzhnHrw04srwzYJA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj
+
 <h1 align="center">Merhaba Yazılım ile Yazılım Dünyasına</h1>
 <h3 align="center">Hoşgeldiniz :)</h3>
 
