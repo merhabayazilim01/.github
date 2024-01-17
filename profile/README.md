@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://twitter.com/merhabayazilim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merhabayazilim" height="30" width="40" /></a>
 <a href="https://instagram.com/merhabayazilim01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="merhabayazilim01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/merhabayazilim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="merhabayazilim" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@merhabayazilim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="merhabayazilim" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Eğitim verdiğimiz programlama dilleri ve araçları:</h3>
