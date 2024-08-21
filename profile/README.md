@@ -3,7 +3,7 @@
 <h1 align="center">Merhaba Yazılım ile Yazılım Dünyasına</h1>
 <h3 align="center">Hoşgeldiniz :)</h3>
 
-- 📫 İletişim için **yazilimmerhaba@gmail.com**
+- 📫 İletişim için **bediveloper@gmail.com**
 
 <h3 align="center">Sosyal medyalarımız:</h3>
 <p align="center">
